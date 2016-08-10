@@ -1,0 +1,1 @@
+module.exports = require('./lib/4d-genie');
